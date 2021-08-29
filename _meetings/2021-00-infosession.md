@@ -2,7 +2,7 @@
 date:   2021-08-26 18:00:00 -0500
 layout: meeting
 published: true # changeme to true!!!
-title:  "SIGPwny Fall Info Session"
+title:  "Week 0: SIGPwny Info Session"
 credit: "Thomas Quig"
 slides: "https://sigpwny.github.io/presentation-content/FA2021/00-infosession.pdf"
 link-to-assets: ""

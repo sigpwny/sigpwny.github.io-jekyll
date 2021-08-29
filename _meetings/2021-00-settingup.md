@@ -2,7 +2,7 @@
 date:   2021-08-29 14:00:00 -0500
 layout: meeting
 published: true # changeme to true!!!
-title:  "SIGPwny Setting Up Meeting"
+title:  "Week 0: SIGPwny Setting Up Meeting"
 credit: "Thomas Quig"
 slides: "https://sigpwny.github.io/presentation-content/FA2021/00-settingup.pdf"
 link-to-assets: ""
