@@ -4,12 +4,12 @@ title: Presentations
 presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/00-settingup.pdf",
-    title: "(Seminar) Setting Up Terminal with Thomas",
+    title: "Week 0: Setting Up Terminal with Thomas (Seminar)",
     date: "2021-08-29",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/00-infosession.pdf",
-    title: "SIGPwny Fall 2021 Info Session with Thomas",
+    title: "Week 0: SIGPwny Fall 2021 Info Session with Thomas",
     date: "2021-08-26",
   },
   {
