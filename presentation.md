@@ -3,6 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/00-settingup.pdf",
+    title: "(Seminar) Setting Up Terminal with Thomas",
+    date: "2021-08-29",
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/00-infosession.pdf",
+    title: "SIGPwny Fall 2021 Info Session with Thomas",
+    date: "2021-08-26",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2021/chal_dev.pdf",
     title: "How to make CTF Challenges W Thomas (No video, we did PWNY Racing)",
     date: "2021-04-22",
