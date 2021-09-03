@@ -15,7 +15,11 @@ how-to-run: [
 list-of-topics: [
 	"Terminal",
 	"WSL",
-	"Command line"
+	"Command line",
+	"Introductions",
+	"SIGPwny as a group",
+	"CTFs",
+	"Opportunities"
 	]
 ---
 
