@@ -7,6 +7,7 @@ $twitter: #6dabda;
 $facebook: #365899;
 $github: #f6c2a4;
 $discord: #7289da;
+$youtube: #d95652;
 
 $darker: #21211e;
 $dark: #2d2d29;
@@ -143,6 +144,10 @@ a:hover {
 
   .fa-github-alt:hover {
     color: $github;
+  }
+
+  .fa-youtube:hover {
+    color: $youtube;
   }
 }
 
