@@ -355,11 +355,17 @@ presentations: [
 ]
 ---
 
+{% assign presentationsByYear = page.presentations | group_by_exp:"presentations", "presentations.date | date: '%Y'" %}
 
-{% assign presentations = page.presentations | sort: "date" %}
+{% for year in presentationsByYear %}
+# {{ year.name }}
+
 | Topic    | Date |
 | :------- | ---: |
-{% for presentation in presentations reversed -%}
+{% for presentation in year.items -%}
 | [{{ presentation.title }}]({{ presentation.link }}) | {{ presentation.date | date_to_string }} |
+{% endfor %}
+||
 ||
 {% endfor %}
+
