@@ -11,7 +11,7 @@ how-to-run: [
 	"Just go through the slides, take breaks when neccesary. This meeting will not be in the 15/45 format",
 	"Help everyone get access to a linux/unix terminal. Wether it be Ubuntu, Mac, or WSL",
 	"Help everyone with the netcat challenge, get them into bandit",
-	"Teach everyone about SIGPwny as a club, the opportunities we have, the 5 major topics of security, etc.
+	"Teach everyone about SIGPwny as a club, the opportunities we have, the 5 major topics of security, etc."
 ]
 list-of-topics: [
 	"Terminal",
@@ -21,7 +21,7 @@ list-of-topics: [
 	"SIGPwny as a group",
 	"CTFs",
 	"Opportunities"
-	]
+]
 ---
 
 Tonight is our introduction and tutorial meeting! We will be talking about what SIGPwny is, how SIGPwny works, and how to get started with hacking/cybersecurity!
