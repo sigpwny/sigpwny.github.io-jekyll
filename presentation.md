@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/02-web.pdf",
+    title: "Week 2: Web Hacking I with Nathan and Kevin",
+    date: "2021-09-09",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/01-terminal.pdf",
     title: "Week 1: Important Terminal Commands with Anusha(Seminar)",
     date: "2021-09-05",
