@@ -4,12 +4,12 @@ title: Presentations
 presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/03-csaw-recap.pdf",
-    title: "CSAW 2021 Recap with A Bunch of People!",
+    title: "Week 3: CSAW 2021 Recap with A Bunch of People! (Seminar)",
     date: "2021-09-19",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/03-web-II.pdf",
-    title: "Week 2: Web Hacking II with Nathan and Kevin",
+    title: "Week 3: Web Hacking II with Nathan and Kevin",
     date: "2021-09-16",
   },
   {
@@ -19,7 +19,7 @@ presentations: [
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/01-terminal.pdf",
-    title: "Week 1: Important Terminal Commands with Anusha(Seminar)",
+    title: "Week 1: Important Terminal Commands with Anusha (Seminar)",
     date: "2021-09-05",
   },
   {
