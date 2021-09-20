@@ -3,6 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/03-csaw-recap.pdf",
+    title: "CSAW 2021 Recap with A Bunch of People!",
+    date: "2021-09-19",
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/03-web-II.pdf",
+    title: "Week 2: Web Hacking II with Nathan and Kevin",
+    date: "2021-09-16",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/02-web.pdf",
     title: "Week 2: Web Hacking I with Nathan and Kevin",
     date: "2021-09-09",
