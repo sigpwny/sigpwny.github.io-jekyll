@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto.pdf",
+    title: "Week 4: Crypto I With Husnain and Anakin",
+    date: "2021-09-23",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/03-csaw-recap.pdf",
     title: "Week 3: CSAW 2021 Recap with A Bunch of People! (Seminar)",
     date: "2021-09-19",
