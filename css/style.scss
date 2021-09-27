@@ -120,35 +120,33 @@ a:hover {
 
 .links {
   text-align: center;
+}
 
-  .fab {
-    -webkit-transition: 0.3s;
-    -moz-transition: 0.3s;
-    transition: 0.3s;
-    color: $white;
-    margin-left: 15px;
-    margin-right: 15px;
-  }
+.fab {
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  transition: 0.3s;
+  color: $white;
+}
 
-  .fa-discord:hover {
-    color: $discord;
-  }
+.fa-discord:hover {
+  color: $discord;
+}
 
-  .fa-twitter:hover {
-    color: $twitter;
-  }
+.fa-twitter:hover {
+  color: $twitter;
+}
 
-  .fa-facebook:hover {
-    color: $facebook;
-  }
+.fa-facebook:hover {
+  color: $facebook;
+}
 
-  .fa-github-alt:hover {
-    color: $github;
-  }
+.fa-github-alt:hover {
+  color: $github;
+}
 
-  .fa-youtube:hover {
-    color: $youtube;
-  }
+.fa-youtube:hover {
+  color: $youtube;
 }
 
 .navbar.transparent.navbar-inverse .navbar-inner {

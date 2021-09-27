@@ -6,26 +6,31 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto-II.pdf",
     title: "Week 4: Crypto II With Husnain and Anakin",
     date: "2021-09-26",
+    youtube_link: "https://youtu.be/J6Q68hRBS8U",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto.pdf",
     title: "Week 4: Crypto I With Husnain and Anakin",
     date: "2021-09-23",
+    youtube_link: "https://youtu.be/QlV_C6xA3GA",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/03-csaw-recap.pdf",
     title: "Week 3: CSAW 2021 Recap with A Bunch of People! (Seminar)",
     date: "2021-09-19",
+    youtube_link: "https://youtu.be/niRzFyYW8-4",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/03-web-II.pdf",
     title: "Week 3: Web Hacking II with Nathan and Kevin",
     date: "2021-09-16",
+    youtube_link: "https://youtu.be/5y2oWqx-9qQ",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/02-web.pdf",
     title: "Week 2: Web Hacking I with Nathan and Kevin",
     date: "2021-09-09",
+    youtube_link: "https://youtu.be/5Qx012vujX0",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/01-terminal.pdf",
@@ -36,6 +41,7 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/FA2021/01-tutorial.pdf",
     title: "Week 1: SIGPwny Fall 2021 Tutorial Meeting with Thomas",
     date: "2021-09-02",
+    youtube_link: "https://youtu.be/uwYNdxmAn8w",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/00-settingup.pdf",
@@ -61,6 +67,7 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/SP2021/hackillinois.pdf",
     title: "HackIllinois with Nathan and Thomas",
     date: "2021-04-10",
+    youtube_link: "https://youtu.be/9ZLqrxs0maw",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2021/recursive.pdf",
@@ -91,6 +98,7 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/SP2021/ethereum_security.pdf",
     title: "Ethereum Security at Scale with Thomas",
     date: "2021-02-27",
+    youtube_link: "https://youtu.be/cpQL876S0UA",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2021/sandbox_escape.pdf",
@@ -121,6 +129,7 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/FA2020/wireless_security.pdf",
     title: "Wireless Security with Thomas",
     date: "2020-11-19",
+    youtube_link: "https://youtu.be/PgQ5sr2gOfw",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2020/opsec.pdf",
@@ -156,6 +165,7 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/SP2020/java_reversing.pdf",
     title: "Java Reverse Engineering With Nathan",
     date: "2020-04-02",
+    youtube_link: "https://youtu.be/4HZxEA5T7BM",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2020/sql_injection.pdf",
@@ -388,7 +398,7 @@ presentations: [
 | Topic    | Date |
 | :------- | ---: |
 {% for presentation in year.items -%}
-| [{{ presentation.title }}]({{ presentation.link }}) | {{ presentation.date | date_to_string }} |
+| [{{ presentation.title }}]({{ presentation.link }}) {% if presentation.youtube_link %}<a href="{{ presentation.youtube_link }}" target="_new"><i class="fab fa-youtube"></i></a>{% endif %} | {{ presentation.date | date_to_string }} |
 {% endfor %}
 ||
 ||
