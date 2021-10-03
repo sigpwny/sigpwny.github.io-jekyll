@@ -3,9 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/05-ethics-and-law.pdf",
+    title: "Week 5: Ethics and Law With Thomas",
+    date: "2021-09-30",
+    youtube_link: "https://youtu.be/Y-r7ouHEZTs",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/05-opsec.pdf",
     title: "Week 5: OpSec With Thomas",
     date: "2021-09-30",
+    youtube_link: "https://youtu.be/AkKp6X2t5CkU",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto-II.pdf",
