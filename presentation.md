@@ -5,7 +5,7 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/05-ethics-and-law.pdf",
     title: "Week 5: Ethics and Law With Thomas",
-    date: "2021-09-30",
+    date: "2021-10-03",
     youtube_link: "https://youtu.be/Y-r7ouHEZTs",
   },
   {
