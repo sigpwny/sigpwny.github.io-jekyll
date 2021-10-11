@@ -3,13 +3,13 @@ layout: page
 title: Presentations
 presentations: [
   {
-    link: "https://sigpwny.github.io/presentation-content/FA2021/06-reverseing-II.pdf",
+    link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-II.pdf",
     title: "Week 6: Reverse Engineering II With Nathan",
     date: "2021-10-10",
     youtube_link: "https://youtu.be/rvAqrp7p6RA",
   },
   {
-    link: "https://sigpwny.github.io/presentation-content/FA2021/06-reverseing-I.pdf",
+    link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-I.pdf",
     title: "Week 6: Reverse Engineering I With Nathan",
     date: "2021-10-07",
     youtube_link: "https://youtu.be/rvAqrp7p6RA",
