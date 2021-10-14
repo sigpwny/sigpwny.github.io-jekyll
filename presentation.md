@@ -3,10 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-I.pdf",
+    title: "Week 7: Binary Exploitation (PWN) I With Chris and Thomas",
+    date: "2021-10-14",
+    youtube_link: "https://youtu.be/Wu1i-AldgCo",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-II.pdf",
     title: "Week 6: Reverse Engineering II With Nathan",
     date: "2021-10-10",
-    youtube_link: "https://youtu.be/rvAqrp7p6RA",
+    youtube_link: "https://youtu.be/Wu1i-AldgCo",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-I.pdf",
