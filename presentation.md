@@ -3,6 +3,12 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-II.pdf",
+    title: "Week 7: Binary Exploitation (PWN) II With Kevin",
+    date: "2021-10-17",
+    youtube_link: "https://youtu.be/zevWQTy-POE",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-I.pdf",
     title: "Week 7: Binary Exploitation (PWN) I With Chris and Thomas",
     date: "2021-10-14",
