@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SIGPwny Fall HACKathon 2021
-location: Siebel Room 2405
+location: Siebel Room 2405, 2407, and 2nd Floor Atrium.
 time: Saturday, October 23 2021, 12:00 - 18:00 CST
 notes: [
   "If you are looking for our internal ctf, go to ctf.sigpwny.com",
@@ -45,7 +45,7 @@ Below is thee schedule for this year. Slides may not be updated to current day, 
 
 - **2** YubiKeys (5 NFC)
 - **2** YubiKeys (USB C)
-- **2** Hak5 WiFi Pineapples (Nano Basic)
+- **2** Home lab setup kits (Switches and Cables for a home lab)
 - **2** Hak5 USB Rubber Duckies
 - **2** CanaKit Rasberry Pi 4 Kits
 - **2** Lockpicking Kits
