@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SIGPwny Fall HACKathon
+title: SIGPwny Fall HACKathon 2019
 location: Siebel Room 1404
 time: Sunday September 8, 13:00 - 18:00
 notes: [
