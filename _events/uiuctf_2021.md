@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UIUCTF 2020
-location: [ctfd](https://2021.uiuc.tf), 
+location: ctfd (https://2021.uiuc.tf), 
 time: July 30 - August 1, 2020
 notes: [
   "Total turnout was ~ 2000 users among ~1000 teams!",
