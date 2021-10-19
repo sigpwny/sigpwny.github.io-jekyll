@@ -20,8 +20,9 @@ who can teach you the ropes or help you along your way.
 **Fill out [this form](https://forms.gle/1jQAyHwZgxEMgsqL9)! to register** for the event! This will give us a rough count of who is showing up before they show up, you are also invited to just show up.
 
 ### Rules and Information
+
 | Max Team Size | Teams of Two! You are encouraged to pair up with someone. Your bracket will be the ceiling of your two experiences.|
-| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken 461, or at the discresion of the administrators|
+| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken CS225 (or equivilant), or at the discresion of the administrators|
 | CTF Length | 6 Hours, challenges will go live at 12 and will close at 6, at 6PM the challenges will be frozen and awards will be distributed |
 
 
