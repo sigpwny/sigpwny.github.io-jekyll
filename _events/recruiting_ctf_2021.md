@@ -28,6 +28,7 @@ who can teach you the ropes or help you along your way.
 
 ### Schedule
 Below is thee schedule for this year. Slides may not be updated to current day, they are not representitive of the final slides
+
 | 12:00pm | [Welcome & Rules](https://drive.google.com/open?id=1OQazs2_Ws2rXOn9rlmV2QxMDoxXQAtlEEiWeLienVu4) |
 | 12:15pm | [Reverse Engineering](https://sigpwny.com/presentation-content/06-reversing-I.pdf) |
 | 12:30pm | [PWN](https://sigpwny.com/presentation-content/07-pwn-I.pdf) |
