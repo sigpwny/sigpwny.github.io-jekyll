@@ -8,6 +8,7 @@ notes: [
   "View writeups at https://sigpwny.com/writeups"
 ]
 ---
+
 UIUCTF 2020 Was a great success! The first UIUCTF of the new SIGPwny club model, and was organized by a team of 13 led by Thomas.
 
 The theme was Animal Crossing, you can see the old landing page at [this link](https://uiuctf.sigpwny.com/2020)!
