@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UIUCTF 2020
-location: [ctfd](https://2020.uiuc.tf), 
+location: ctfd (https://2020.uiuc.tf), 
 time: July 16-18, 2020
 notes: [
   "Total turnout was 1300 users among 860 teams!",
