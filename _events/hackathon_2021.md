@@ -8,7 +8,7 @@ notes: [
 ]
 ---
 
-We are hosting a security HACKathon to get students interested in Information Security!
+We are hosting a security HACKathon (6 hour long mini-CTF) to get students interested in Information Security!
 
 There will be **food** and **prizes**!
 
@@ -24,7 +24,7 @@ who can teach you the ropes or help you along your way.
 | Max Team Size | Teams of Two! You are encouraged to pair up with someone. Your bracket will be the ceiling of your two experiences.|
 | Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken CS225 (or equivilant), or at the discresion of the administrators|
 | CTF Length | 6 Hours, challenges will go live at 12 and will close at 6, at 6PM the challenges will be frozen and awards will be distributed |
-
+| Dress Code | There is no formal dress code, but a few people from companies be here, so dress casual but not too casual |
 
 
 ### Schedule
