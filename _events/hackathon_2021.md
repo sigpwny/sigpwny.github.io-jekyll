@@ -22,13 +22,13 @@ who can teach you the ropes or help you along your way.
 ### Rules and Information
 
 | Max Team Size | Teams of Two! You are encouraged to pair up with someone. Your bracket will be the ceiling of your two experiences.|
-| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken CS225 (or equivalent), or at the discresion of the administrators|
+| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken CS225 (or equivalent), or at the discretion of the administrators|
 | CTF Length | 6 Hours, challenges will go live at 12 and will close at 6, at 6PM the challenges will be frozen and awards will be distributed |
 | Dress Code | There is no formal dress code, but a few people from companies be here, so dress casual but not too casual |
 
 
 ### Schedule
-Below is thee schedule for this year. Slides may not be updated to current day, they are not representitive of the final slides
+Below is the schedule for this year. Slides may not be completely up to date, and are not representative of the final slides.
 
 | 12:00pm | [Welcome & Rules](https://drive.google.com/open?id=1OQazs2_Ws2rXOn9rlmV2QxMDoxXQAtlEEiWeLienVu4) |
 | 12:15pm | [Reverse Engineering](https://sigpwny.com/presentation-content/06-reversing-I.pdf) |
@@ -47,7 +47,7 @@ Below is thee schedule for this year. Slides may not be updated to current day, 
 - **2** YubiKeys (USB C)
 - **2** Home lab setup kits (Switches and Cables for a home lab)
 - **2** Hak5 USB Rubber Duckies
-- **2** CanaKit Rasberry Pi 4 Kits
+- **2** CanaKit Raspberry Pi 4 Kits
 - **2** Lockpicking Kits
 - **A lot** of SIGPwny Stickers!
 
