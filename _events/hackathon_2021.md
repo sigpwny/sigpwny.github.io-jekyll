@@ -12,8 +12,8 @@ We are hosting a security HACKathon (6 hour long mini-CTF) to get students inter
 
 There will be **food** and **prizes**!
 
-Whether you know absolutely nothing, or are a CTF pro, 
-we would love for you to come and learn from senior members and **Experienced Security Engineers** 
+Whether you know absolutely nothing, or are a CTF pro,
+we would love for you to come and learn from senior members and **Experienced Security Engineers**
 who can teach you the ropes or help you along your way.
 
 ### Registration
@@ -22,7 +22,7 @@ who can teach you the ropes or help you along your way.
 ### Rules and Information
 
 | Max Team Size | Teams of Two! You are encouraged to pair up with someone. Your bracket will be the ceiling of your two experiences.|
-| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken CS225 (or equivilant), or at the discresion of the administrators|
+| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken CS225 (or equivalent), or at the discresion of the administrators|
 | CTF Length | 6 Hours, challenges will go live at 12 and will close at 6, at 6PM the challenges will be frozen and awards will be distributed |
 | Dress Code | There is no formal dress code, but a few people from companies be here, so dress casual but not too casual |
 
@@ -49,7 +49,7 @@ Below is thee schedule for this year. Slides may not be updated to current day, 
 - **2** Hak5 USB Rubber Duckies
 - **2** CanaKit Rasberry Pi 4 Kits
 - **2** Lockpicking Kits
-- **A lot** of SIGPwny Stickers! 
+- **A lot** of SIGPwny Stickers!
 
 
 ### Contact
