@@ -4,7 +4,7 @@ title: SIGPwny Fall HACKathon 2021
 location: Siebel Room 2405, 2407, and 2nd Floor Atrium.
 time: Saturday, October 23 2021, 12:00 - 18:00 CST
 notes: [
-  "If you are looking for our internal ctf, go to ctf.sigpwny.com",
+  "Link to fall CTF: https://fallctf.sigpwny.com",
 ]
 ---
 
