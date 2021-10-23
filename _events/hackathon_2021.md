@@ -22,7 +22,7 @@ who can teach you the ropes or help you along your way.
 ### Rules and Information
 
 | Max Team Size | Teams of Two! You are encouraged to pair up with someone. Your bracket will be the ceiling of your two experiences.|
-| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has taken CS225 (or equivalent), or at the discretion of the administrators|
+| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has been to > 5 SIGPwny meetings, or has taken CS241, ECE391, CS461 (or equivalent), or at the discretion of the administrators|
 | CTF Length | 6 Hours, challenges will go live at 12 and will close at 6, at 6PM the challenges will be frozen and awards will be distributed |
 | Dress Code | There is no formal dress code, but a few people from companies be here, so dress casual but not too casual |
 
