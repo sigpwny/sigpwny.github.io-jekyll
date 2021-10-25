@@ -5,7 +5,7 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/08-thebigrick.pdf",
     title: "Week 8: The Big Rick with Minh",
-    date: "2021-10-17",
+    date: "2021-10-24",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/08-lockpicking.pdf",
