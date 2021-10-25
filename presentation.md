@@ -3,6 +3,17 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/08-thebigrick.pdf",
+    title: "Week 8: The Big Rick with Minh",
+    date: "2021-10-17",
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/08-lockpicking.pdf",
+    title: "Week 8: Physical Security and Lockpicking with Thomas",
+    date: "2021-10-21",
+    youtube_link: "hhttps://youtu.be/9mjmD63Pz-k",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-II.pdf",
     title: "Week 7: Binary Exploitation (PWN) II With Kevin",
     date: "2021-10-17",
