@@ -3,6 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/09-summary.pdf",
+    title: "Week 9: Spooky Summary With Thomas",
+    date: "2021-10-31",
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/09-forensics.pdf",
+    title: "Week 9: Forensics with Thomas and Nathan",
+    date: "2021-10-28",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/08-thebigrick.pdf",
     title: "Week 8: The Big Rick with Minh",
     date: "2021-10-24",
