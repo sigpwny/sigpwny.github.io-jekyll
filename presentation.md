@@ -6,11 +6,13 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/FA2021/09-summary.pdf",
     title: "Week 9: Spooky Summary With Thomas",
     date: "2021-10-31",
+    youtube_link: "https://youtu.be/tHD2gFliR6E"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/09-forensics.pdf",
     title: "Week 9: Forensics with Thomas and Nathan",
     date: "2021-10-28",
+    youtube_link: "https://www.youtube.com/watch?v=GnSjustHiKo"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/08-thebigrick.pdf",
@@ -21,7 +23,7 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/FA2021/08-lockpicking.pdf",
     title: "Week 8: Physical Security and Lockpicking with Thomas",
     date: "2021-10-21",
-    youtube_link: "hhttps://youtu.be/9mjmD63Pz-k",
+    youtube_link: "https://youtu.be/9mjmD63Pz-k",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-II.pdf",
