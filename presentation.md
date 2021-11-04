@@ -3,8 +3,13 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/10-osint-I.pdf",
+    title: "Week 10: Open Source Intelligence (OSINT) with Thomas",
+    date: "2021-11-04"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/09-summary.pdf",
-    title: "Week 9: Spooky Summary With Thomas",
+    title: "Week 9: Spooky Summary with Thomas",
     date: "2021-10-31",
     youtube_link: "https://youtu.be/tHD2gFliR6E"
   },
@@ -27,49 +32,49 @@ presentations: [
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-II.pdf",
-    title: "Week 7: Binary Exploitation (PWN) II With Kevin",
+    title: "Week 7: Binary Exploitation (PWN) II with Kevin",
     date: "2021-10-17",
     youtube_link: "https://youtu.be/zevWQTy-POE",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-I.pdf",
-    title: "Week 7: Binary Exploitation (PWN) I With Chris and Thomas",
+    title: "Week 7: Binary Exploitation (PWN) I with Chris and Thomas",
     date: "2021-10-14",
     youtube_link: "https://youtu.be/LbYZZI42-ZY",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-II.pdf",
-    title: "Week 6: Reverse Engineering II With Nathan",
+    title: "Week 6: Reverse Engineering II with Nathan",
     date: "2021-10-10",
     youtube_link: "https://youtu.be/Wu1i-AldgCo",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-I.pdf",
-    title: "Week 6: Reverse Engineering I With Nathan",
+    title: "Week 6: Reverse Engineering I with Nathan",
     date: "2021-10-07",
     youtube_link: "https://youtu.be/rvAqrp7p6RA",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/05-ethics-and-law.pdf",
-    title: "Week 5: Ethics and Law With Thomas",
+    title: "Week 5: Ethics and Law with Thomas",
     date: "2021-10-03",
     youtube_link: "https://youtu.be/Y-r7ouHEZTs",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/05-opsec.pdf",
-    title: "Week 5: OpSec With Thomas",
+    title: "Week 5: OpSec with Thomas",
     date: "2021-09-30",
     youtube_link: "https://youtu.be/AkKp6X2t5CkU",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto-II.pdf",
-    title: "Week 4: Crypto II With Husnain and Anakin",
+    title: "Week 4: Crypto II with Husnain and Anakin",
     date: "2021-09-26",
     youtube_link: "https://youtu.be/J6Q68hRBS8U",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto.pdf",
-    title: "Week 4: Crypto I With Husnain and Anakin",
+    title: "Week 4: Crypto I with Husnain and Anakin",
     date: "2021-09-23",
     youtube_link: "https://youtu.be/QlV_C6xA3GA",
   },
