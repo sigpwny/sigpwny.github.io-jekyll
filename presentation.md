@@ -3,6 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/11-networking.pdf",
+    title: "Week 11: Networking with Minh",
+    date: "2021-11-11"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/10-osint-II.pdf",
+    title: "Week 10: Open Source Intelligence (OSINT) II with Thomas",
+    date: "2021-11-07"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/10-osint-I.pdf",
     title: "Week 10: Open Source Intelligence (OSINT) with Thomas",
     date: "2021-11-04"
