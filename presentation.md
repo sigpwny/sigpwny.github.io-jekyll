@@ -3,6 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/12-recursive.pdf",
+    title: "Week 12: The Recursive Meeting with Thomas",
+    date: "2021-11-18"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/11-wireless-net.pdf",
+    title: "Week 11: Wireless Networking with Thomas",
+    date: "2021-11-14"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/11-networking.pdf",
     title: "Week 11: Networking with Minh",
     date: "2021-11-11"
