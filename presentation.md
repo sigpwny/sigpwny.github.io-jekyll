@@ -3,9 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/14-javare.pdf",
+    title: "Week 14: Java Reversing with Nate",
+    date: "2021-11-18",
+    youtube_link: "https://youtu.be/eqaxuqBhtMI"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/12-recursive.pdf",
     title: "Week 12: The Recursive Meeting with Thomas",
-    date: "2021-11-18"
+    date: "2021-11-18",
+    youtube_link: "https://youtu.be/iSaYLJF8cQU"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/11-wireless-net.pdf",
@@ -15,17 +22,20 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/11-networking.pdf",
     title: "Week 11: Networking with Minh",
-    date: "2021-11-11"
+    date: "2021-11-11",
+    youtube_link: "https://youtu.be/az12sv5HTbQ"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/10-osint-II.pdf",
     title: "Week 10: Open Source Intelligence (OSINT) II with Thomas",
-    date: "2021-11-07"
+    date: "2021-11-07",
+    youtube_link: "https://youtu.be/kWES2haaZGw"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/10-osint-I.pdf",
     title: "Week 10: Open Source Intelligence (OSINT) with Thomas",
-    date: "2021-11-04"
+    date: "2021-11-04",
+    youtube_link: "https://youtu.be/eeZhkANTAYU"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/09-summary.pdf",
