@@ -3,9 +3,15 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2021/14-mobile.pdf",
+    title: "Week 14: Mobile Security with Pete",
+    date: "2021-12-05",
+    youtube_link: "https://youtu.be/FGbriG8RXeU"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/14-javare.pdf",
     title: "Week 14: Java Reversing with Nate",
-    date: "2021-11-18",
+    date: "2021-12-02",
     youtube_link: "https://youtu.be/eqaxuqBhtMI"
   },
   {
