@@ -12,7 +12,7 @@ members: [
   },
   {
     name    : "Nicholas",
-    picture : "https://nicholas.sh/images/profile.jpg",
+    picture : "https://nicholas.sh/profile.jpg",
     link    : "https://nicholas.sh",
     role    : "Officer",
     order   : 1,
