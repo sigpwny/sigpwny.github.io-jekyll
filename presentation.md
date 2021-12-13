@@ -23,7 +23,8 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/11-wireless-net.pdf",
     title: "Week 11: Wireless Networking with Thomas",
-    date: "2021-11-14"
+    date: "2021-11-14",
+    youtube_link: "https://youtu.be/TYanTrchRqQ"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/11-networking.pdf",
