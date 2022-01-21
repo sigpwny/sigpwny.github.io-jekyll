@@ -57,3 +57,7 @@ Below is the schedule for this year. Slides may not be completely up to date, an
 Got any questions? [Join our discord]({{ site.discord_link }}) for a quick response.
 
 Additionally, you can contact us at: [sigpwny@gmail.com](mailto:sigpwny@gmail.com)
+
+### Sponsors
+
+Thank you to [Synchrony](https://www.mysynchrony.com/) for sponsoring this event!
