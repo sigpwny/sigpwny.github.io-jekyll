@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/00-welcomeback.pdf",
+    title: "Spring Week 00: Welcome back meeting with Nathan",
+    date: "2022-01-20"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2021/14-mobile.pdf",
     title: "Week 14: Mobile Security with Pete",
     date: "2021-12-05",
