@@ -3,6 +3,23 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/03-Log4Shell.pdf",
+    title: "Spring Week 03: Log4Shell meeting with Minh",
+    date: "2022-02-10",
+    youtube_link: "https://youtu.be/l-lEGD3BVto"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/02-format-strings.pdf",
+    title: "Spring Week 02: Format Strings meeting with Nathan",
+    date: "2022-02-03"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/01-rop.pdf",
+    title: "Spring Week 01: ROP meeting with Nathan",
+    date: "2022-01-27".
+    youtube_link: "https://youtu.be/Zfu2pHYduh4"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2022/00-welcomeback.pdf",
     title: "Spring Week 00: Welcome back meeting with Nathan",
     date: "2022-01-20"
