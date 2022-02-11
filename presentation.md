@@ -3,6 +3,36 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/03-Log4Shell.pdf",
+    title: "Spring Week 03: Log4Shell With Minh",
+    date: "2022-02-10"
+  },
+  {
+    link: "https://ctf.dicega.ng/scoreboard",
+    title: "SIGPwny Took 7th Place in DiceCTF (No Meeting)",
+    date: "2022-02-06"
+  },
+  {
+    title: "Spring Week 02: Format String Vulnerabilities with Nathan",
+    link: "https://sigpwny.github.io/presentation-content/SP2022/03-format-strings.pdf",
+    date: "2022-02-03"
+  },
+  {
+    link: "https://sigpwny.com/uiuctf",
+    title: "Spring Week 01: UIUCTF Planning (Internal)",
+    date: "2022-01-30"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/00-welcomeback.pdf",
+    title: "Spring Week 01: ROP (Return Oriented Programming) with Nathan",
+    date: "2022-01-27",
+    youtube_link: "https://youtu.be/Zfu2pHYduh4"
+  },
+  {
+    title: "Spring Week 00: Show and Tell with Lots of People",
+    date: "2022-01-23"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2022/00-welcomeback.pdf",
     title: "Spring Week 00: Welcome back meeting with Nathan",
     date: "2022-01-20"
