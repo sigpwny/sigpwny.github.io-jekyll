@@ -5,22 +5,26 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/SP2022/03-rsa-factoring.pdf",
     title: "Spring Week 03: RSA Factoring with Husnain",
-    date: "2022-02-13"
+    date: "2022-02-13",
+    youtube_link: "https://youtu.be/EqSzXBlHM2E"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2022/03-Log4Shell.pdf",
     title: "Spring Week 03: Log4Shell With Minh",
-    date: "2022-02-10"
+    date: "2022-02-10",
+    youtube_link: "https://youtu.be/l-lEGD3BVto"
   },
   {
     link: "https://ctf.dicega.ng/scores",
     title: "SIGPwny Took 7th Place in DiceCTF (No Meeting)",
-    date: "2022-02-06"
+    date: "2022-02-06",
+    youtube_link: "https://www.youtube.com/watch?v=K5Vr7Oph97I"
   },
   {
     title: "Spring Week 02: Format String Vulnerabilities with Nathan",
     link: "https://sigpwny.github.io/presentation-content/SP2022/02-format-strings.pdf",
-    date: "2022-02-03"
+    date: "2022-02-03",
+    youtube_link: "https://youtu.be/wfnd-dhSDr4"
   },
   {
     link: "https://sigpwny.com/uiuctf",
