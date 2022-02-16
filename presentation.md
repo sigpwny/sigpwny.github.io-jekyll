@@ -8,13 +8,13 @@ presentations: [
     date: "2022-02-10"
   },
   {
-    link: "https://ctf.dicega.ng/scoreboard",
+    link: "https://ctf.dicega.ng/scores",
     title: "SIGPwny Took 7th Place in DiceCTF (No Meeting)",
     date: "2022-02-06"
   },
   {
     title: "Spring Week 02: Format String Vulnerabilities with Nathan",
-    link: "https://sigpwny.github.io/presentation-content/SP2022/03-format-strings.pdf",
+    link: "https://sigpwny.github.io/presentation-content/SP2022/02-format-strings.pdf",
     date: "2022-02-03"
   },
   {
