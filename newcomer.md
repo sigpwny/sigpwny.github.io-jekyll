@@ -8,7 +8,7 @@ Welcome to SIGPwny! We are glad that you found us, and we hope you are ready to 
 
 1. Join our discord here, at [sigpwny.com/discord]({{ site.discord_link }}) to talk with members of the club. Once you are there, read `#rules` and `#announcements` for any recent info.
 
-2. Flip through this [presentation](https://sigpwny.github.io/presentation-content/FA2021/01-tutorial.pdf)!
+2. Flip through this [presentation](https://sigpwny.github.io/presentation-content/FA2021/01-tutorial.pdf) or watch this [video](https://www.youtube.com/watch?v=uwYNdxmAn8w)!
 
 
 Our second meeting of the year will generally be "[Setting Up](https://sigpwny.github.io/presentation-content/FA2021/00-settingup.pdf)". 
