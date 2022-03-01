@@ -3,6 +3,18 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/05-intro-crypto-math.pdf",
+    title: "Spring Week 05: Crypto Math Intro with Aditya",
+    date: "2022-02-27",
+    youtube_link: "https://youtu.be/deGvahtfR8M"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/05-windows-environments.pdf",
+    title: "Spring Week 05: Windows Environments with Thomas and Chris",
+    date: "2022-02-24",
+    youtube_link: "https://youtu.be/y8KlhzHcm-w"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2022/04-python-jails.pdf",
     title: "Spring Week 04: Python Jails with Pete!",
     date: "2022-02-17",
