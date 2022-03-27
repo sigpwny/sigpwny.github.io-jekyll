@@ -3,6 +3,17 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/09-security-careers.pdf",
+    title: "Spring Week 09: Security Careers",
+    date: "2022-03-25",
+    youtube_link: "https://youtu.be/V-Gjavv2NlM"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/06-intro-to-pentesting.pdf",
+    title: "Spring Week 06: Intro to Pentesting with Thomas and Minh",
+    date: "2022-03-03"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2022/05-intro-crypto-math.pdf",
     title: "Spring Week 05: Crypto Math Intro with Aditya",
     date: "2022-02-27",
