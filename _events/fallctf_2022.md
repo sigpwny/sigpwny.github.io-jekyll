@@ -31,10 +31,10 @@ who can teach you the ropes or help you along your way.
 Below are the learning materials from last year. These may be updated!
 
 | 12:00pm | [Welcome & Rules](https://drive.google.com/open?id=1OQazs2_Ws2rXOn9rlmV2QxMDoxXQAtlEEiWeLienVu4) |
-| 12:15pm | [Reverse Engineering](https://sigpwny.com/presentation-content/06-reversing-I.pdf) |
-| 12:30pm | [PWN](https://sigpwny.com/presentation-content/07-pwn-I.pdf) |
+| 12:15pm | [Reverse Engineering](https://sigpwny.com/presentation-content/FA2021/06-reversing-I.pdf) |
+| 12:30pm | [PWN](https://sigpwny.com/presentation-content/FA2021/07-pwn-I.pdf) |
 |  2:00pm | [Web](https://sigpwny.com/presentation-content/FA2021/02-web.pdf) |
-|  2:15pm | [Crypto](https://sigpwny.com/presentation-content/FA2021/04-crypto.pdf) |
+|  2:15pm | [Crypto](https://sigpwny.com/presentation-content/SP2022/05-intro-crypto-math.pdf) |
 |  4:00pm | [OSINT](https://sigpwny.com/presentation-content/SP2019/osint.pdf) |
 |  4:15pm | [Forensics](https://sigpwny.com/presentation-content/FA2019/forensics.pdf) |
 
