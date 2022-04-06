@@ -1,8 +1,7 @@
 ---
 layout: page
 title: UIUCTF 2021 Writeups
-writeups:
-[
+writeups: [
   {
     "team": "baby_python",
     "author": "natem135",

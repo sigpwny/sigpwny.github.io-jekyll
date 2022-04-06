@@ -1,8 +1,7 @@
 ---
 layout: page
 title: UIUCTF 2021 All Writeups
-writeups:
-[
+writeups: [
   {
     "team": "Social Engineering Experts",
     "author": "Infintesky",
