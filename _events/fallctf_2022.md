@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SIGPwny Fall Recruiting CTF 2022
-location: TBD
-time: September 2022
+location: Siebel Center for Computer Science
+time: September 24 2022
 notes: [
   "Link to fall CTF: https://ctf.sigpwny.com",
 ]
@@ -24,7 +24,7 @@ who can teach you the ropes or help you along your way.
 ### Rules and Information
 
 | Max Team Size | Teams of Two! You are encouraged to pair up with someone. Your bracket will be the ceiling of your two experiences.|
-| Split Brackets | 2, Beginner and Advanced Bracket, determined by if participant has been to > 5 SIGPwny meetings, or has taken any of CS241, ECE391, CS461 (or equivalent), or at the discretion of the administrators|
+| Brackets | 2, Beginner and Advanced Bracket, determined by if participant has been to > 5 SIGPwny meetings, or has taken any of CS241, ECE391, CS461 (or equivalent), or at the discretion of the administrators|
 | CTF Length | 6 Hours, challenges will go live at 12 and will close at 6, at 6PM the challenges will be frozen and awards will be distributed |
 
 ### Schedule
@@ -53,4 +53,4 @@ Additionally, you can contact us at: [sigpwny@gmail.com](mailto:sigpwny@gmail.co
 
 ### Sponsors
 
-Could be you!
+Could be you! Check out our [sponsor sheet]({{ site.base_url }}/assets/Official_Fall_CTF_2022_Sponsorship_Sheet.pdf) and email [sigpwny@gmail.com](mailto:sigpwny@gmail.com)
