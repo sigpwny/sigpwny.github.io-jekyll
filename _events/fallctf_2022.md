@@ -4,7 +4,7 @@ title: SIGPwny Fall Recruiting CTF 2022
 location: TBD
 time: September 2022
 notes: [
-  "Link to fall CTF: https://fallctf.sigpwny.com",
+  "Link to fall CTF: https://ctf.sigpwny.com",
 ]
 ---
 
