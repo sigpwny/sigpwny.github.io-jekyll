@@ -8,7 +8,7 @@ notes: [
 ]
 ---
 
-We are hosting a security CAPTURE THE FLAG competition to get students interested in Information Security!
+We are hosting a security CAPTURE THE FLAG competition to get students interested in cybersecurity and SIGPwny! Meet other SIGPwny members and get a head start on our internal CTF!
 
 There will be **food** and **prizes**!
 
@@ -27,23 +27,18 @@ who can teach you the ropes or help you along your way.
 | Brackets | 2, Beginner and Advanced Bracket, determined by if participant has been to > 5 SIGPwny meetings, or has taken any of CS241, ECE391, CS461 (or equivalent), or at the discretion of the administrators|
 | CTF Length | 6 Hours, challenges will go live at 12 and will close at 6, at 6PM the challenges will be frozen and awards will be distributed |
 
-### Schedule
-Below are the learning materials from last year. These may be updated!
+### Training Materials
 
-| 12:00pm | [Welcome & Rules](https://drive.google.com/open?id=1OQazs2_Ws2rXOn9rlmV2QxMDoxXQAtlEEiWeLienVu4) |
-| 12:15pm | [Reverse Engineering](https://sigpwny.com/presentation-content/FA2021/06-reversing-I.pdf) |
-| 12:30pm | [PWN](https://sigpwny.com/presentation-content/FA2021/07-pwn-I.pdf) |
-|  2:00pm | [Web](https://sigpwny.com/presentation-content/FA2021/02-web.pdf) |
-|  2:15pm | [Crypto](https://sigpwny.com/presentation-content/SP2022/05-intro-crypto-math.pdf) |
-|  4:00pm | [OSINT](https://sigpwny.com/presentation-content/SP2019/osint.pdf) |
-|  4:15pm | [Forensics](https://sigpwny.com/presentation-content/FA2019/forensics.pdf) |
-
-| 6:00pm | [Award prizes, chat with engineers and senior members](https://docs.google.com/presentation/d/1CMmSA05yjoAuxqZtgYCP-zpeh35fCMzTxHK6o8nwUAs/edit?usp=sharing) |
-|||
+[Reverse Engineering](https://sigpwny.com/presentation-content/FA2021/06-reversing-I.pdf)
+[PWN](https://sigpwny.com/presentation-content/FA2021/07-pwn-I.pdf)
+[Web Hacking](https://sigpwny.com/presentation-content/FA2021/02-web.pdf)
+[Cryptography](https://sigpwny.com/presentation-content/FA2021/04-crypto.pdf)
+[OSINT](https://sigpwny.github.io/presentation-content/FA2021/10-osint-I.pdf)
+[Forensics](https://sigpwny.github.io/presentation-content/FA2021/09-forensics.pdf)
 
 ### Prizes
 
-- TBD!
+- TBD
 
 ### Contact
 
@@ -53,4 +48,4 @@ Additionally, you can contact us at: [sigpwny@gmail.com](mailto:sigpwny@gmail.co
 
 ### Sponsors
 
-Could be you! Check out our [sponsor sheet]({{ site.base_url }}/assets/Official_Fall_CTF_2022_Sponsorship_Sheet.pdf) and email [sigpwny@gmail.com](mailto:sigpwny@gmail.com)
+Your company name here! Check out our [sponsor sheet]({{ site.base_url }}/assets/Official_Fall_CTF_2022_Sponsorship_Sheet.pdf) and email [sigpwny@gmail.com](mailto:sigpwny@gmail.com)
