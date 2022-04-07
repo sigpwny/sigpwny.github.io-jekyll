@@ -29,12 +29,12 @@ who can teach you the ropes or help you along your way.
 
 ### Training Materials
 
-[Reverse Engineering](https://sigpwny.com/presentation-content/FA2021/06-reversing-I.pdf)
-[PWN](https://sigpwny.com/presentation-content/FA2021/07-pwn-I.pdf)
-[Web Hacking](https://sigpwny.com/presentation-content/FA2021/02-web.pdf)
-[Cryptography](https://sigpwny.com/presentation-content/FA2021/04-crypto.pdf)
-[OSINT](https://sigpwny.github.io/presentation-content/FA2021/10-osint-I.pdf)
-[Forensics](https://sigpwny.github.io/presentation-content/FA2021/09-forensics.pdf)
+- [Reverse Engineering](https://sigpwny.com/presentation-content/FA2021/06-reversing-I.pdf)
+- [PWN](https://sigpwny.com/presentation-content/FA2021/07-pwn-I.pdf)
+- [Web Hacking](https://sigpwny.com/presentation-content/FA2021/02-web.pdf)
+- [Cryptography](https://sigpwny.com/presentation-content/FA2021/04-crypto.pdf)
+- [OSINT](https://sigpwny.github.io/presentation-content/FA2021/10-osint-I.pdf)
+- [Forensics](https://sigpwny.github.io/presentation-content/FA2021/09-forensics.pdf)
 
 ### Prizes
 
