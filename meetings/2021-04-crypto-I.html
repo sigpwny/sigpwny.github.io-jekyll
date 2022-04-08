@@ -1,1 +1,139 @@
-<!DOCTYPE html> <html> <title>Week 4: Crypto I Meeting</title> <head> <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script> <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css"> <link rel="stylesheet" type="text/css" media="all" href="/css/style.css"/> <link rel="shortcut icon" href="/favicon.ico"> </head> <body> <div class="container"> <div class="row"> <div class="col px-5"> <ul class="nav justify-content-center m-4"> <li class="nav-item"> <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/presentation"><h4>Presentations</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/meeting"><h4>Meetings</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/event"><h4>Events</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/about"><h4>About</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/writeups"><h4>Writeups</h4></a> </li> </ul> <script>var n=Math.floor(100*Math.random());n>98&&(document.querySelector("#title_for_random").innerHTML="SIPGwny",console.log("SIPGwny!"));</script> </div> </div> </div> <div class="container mb-5"> <div class="row"> <div class="col panel mt-5"> <div class="row"> <div class="col align-right"> <img src="/images/logo.png" class="rounded my-1" height="115" width="100"/> </div> <div class="col"> <h2 class="my-5 header">Week 4: Crypto I Meeting</h2> </div> <div class="col"> </div> </div> <p class="lead"> Author: Husnain R, Anakin, Nebu, Heassam, Pranav </p> <a class="mr-3" href='https://sigpwny.github.io/presentation-content/FA2021/04-crypto.pdf'>Slides</a> <a href='TODO'>Required Files</a> <br> <hr/> <br> <h4>Goal:</h4> <p>This meeting is meant to teach XSS and SQL</p> <br> <h4>Topics Covered:</h4> <div> <ul> <li>Crypto Fundamentals</li> <li>Encoding</li> <li>Symetric and Asymmetric Key encryption</li> <li>Ceasar Cipher, Old Ciphers</li> <li>XOR</li> <li>AES (Symmetric Key)</li> <li>RSA (Asymmetric Key)</li> </ul> </div> <br> <h4>How to Run this meeting:</h4> <div> <ul> <li>Go through the slides, this meeting is designed to be a 15-45 meeting</li> <li>Do some of the basic demos (cards, RPS)</li> <li>Help people solve challenges should they need it. Especially ceasar cipher and basic XOr</li> </ul> </div> <br> <h4>Description:</h4> <p>Tonight is Crypto, this will teach you crypto fundamentals. We will cover Encoding, the two main different forms of encryption, History of Ciphers, XOR cipher, easy AES and RSA!</p> </div> </div> </div> <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script> <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> </body> </html>
+<!DOCTYPE html>
+<html>
+
+  <title>Week 4: Crypto I Meeting</title>
+
+  <head>
+    <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+<link rel="shortcut icon" href="/favicon.ico">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col px-5">
+          <ul class="nav justify-content-center m-4">
+  <li class="nav-item">
+    <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/presentation"><h4>Presentations</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/meeting"><h4>Meetings</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/event"><h4>Events</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/about"><h4>About</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/writeups"><h4>Writeups</h4></a>
+  </li>
+</ul>
+<script>
+  var n = Math.floor(Math.random() * 100);
+  if (n > 98) {
+    document.querySelector("#title_for_random").innerHTML = "SIPGwny";
+    console.log("SIPGwny!");
+  }
+</script>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container mb-5">
+  <div class="row">
+    <div class="col panel mt-5">
+      <div class="row">
+        <div class="col align-right">
+          <img src="/images/logo.png" class="rounded my-1" height="115" width="100"/>
+        </div>
+        <div class="col">
+          <h2 class="my-5 header">Week 4: Crypto I Meeting</h2>
+        </div>
+        <div class="col">
+        </div>
+      </div>
+
+      
+      <p class="lead"> Author: Husnain R, Anakin, Nebu, Heassam, Pranav </p>
+      
+
+      <a class="mr-3" href='https://sigpwny.github.io/presentation-content/FA2021/04-crypto.pdf'>Slides</a>
+      
+      <a href='TODO'>Required Files</a>
+      <br>
+      
+
+      <hr/>
+      <br>
+
+      <h4>Goal:</h4>
+      <p>This meeting is meant to teach XSS and SQL</p>
+      <br>
+
+      <h4>Topics Covered:</h4>
+      <div>
+        <ul>
+          
+          <li>Crypto Fundamentals</li>
+          
+          <li>Encoding</li>
+          
+          <li>Symetric and Asymmetric Key encryption</li>
+          
+          <li>Ceasar Cipher, Old Ciphers</li>
+          
+          <li>XOR</li>
+          
+          <li>AES (Symmetric Key)</li>
+          
+          <li>RSA (Asymmetric Key)</li>
+          
+        </ul>
+      </div>
+      <br>
+
+
+      
+      <h4>How to Run this meeting:</h4>
+      <div>
+        <ul>
+          
+          <li>Go through the slides, this meeting is designed to be a 15-45 meeting</li>
+          
+          <li>Do some of the basic demos (cards, RPS)</li>
+          
+          <li>Help people solve challenges should they need it. Especially ceasar cipher and basic XOr</li>
+          
+        </ul>
+      </div>
+      <br>
+      
+
+      <h4>Description:</h4>
+      <p>Tonight is Crypto, this will teach you crypto fundamentals. We will cover Encoding, the two main different forms of encryption, History of Ciphers, XOR cipher, easy AES and RSA!</p>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>

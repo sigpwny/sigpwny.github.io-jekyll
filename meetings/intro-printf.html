@@ -1,1 +1,134 @@
-<!DOCTYPE html> <html> <title>Printf Meeting</title> <head> <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script> <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css"> <link rel="stylesheet" type="text/css" media="all" href="/css/style.css"/> <link rel="shortcut icon" href="/favicon.ico"> </head> <body> <div class="container"> <div class="row"> <div class="col px-5"> <ul class="nav justify-content-center m-4"> <li class="nav-item"> <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/presentation"><h4>Presentations</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/meeting"><h4>Meetings</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/event"><h4>Events</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/about"><h4>About</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/writeups"><h4>Writeups</h4></a> </li> </ul> <script>var n=Math.floor(100*Math.random());n>98&&(document.querySelector("#title_for_random").innerHTML="SIPGwny",console.log("SIPGwny!"));</script> </div> </div> </div> <div class="container mb-5"> <div class="row"> <div class="col panel mt-5"> <div class="row"> <div class="col align-right"> <img src="/images/logo.png" class="rounded my-1" height="115" width="100"/> </div> <div class="col"> <h2 class="my-5 header">Printf Meeting</h2> </div> <div class="col"> </div> </div> <p class="lead"> Author: Joseph Ravichandran </p> <a class="mr-3" href='https://docs.google.com/presentation/d/1WO3gKaJcloAdKZSHb9uZVnc08eAD4zA-jIO9U-i_ptM/edit?usp=sharing'>Slides</a> <hr/> <br> <h4>Goal:</h4> <p>Learn the basics of exploiting format string attacks</p> <br> <h4>Topics Covered:</h4> <div> <ul> <li>%x: print hex</li> <li>%d: print decimal</li> <li>%s: print string given pointer to string on stack</li> <li>%n: store number of characters printed thus far into a pointer on the stack</li> <li>reversing</li> <li>pwn</li> </ul> </div> <br> <h4>How to Run this meeting:</h4> <div> <ul> <li>This concept is best explained with first explaining a little, and then introducing a challenge</li> <li>First talk about how printf works, then give a simple challenge, then introduce more advanced concepts, etc.</li> <li>The challenges should begin with simply using %s to print a string, then using %x a few times to see the stack, then $n%x to print a specific offset, and finally using %n to overwrite information.</li> </ul> </div> <br> <h4>Description:</h4> <p>This week’s meeting will be covering format string vulnerabilities in the C printf function. If a program allows you to specify a format string argument to a printf call, you can do all sorts of stuff, from redirecting program flow to overwritting arbitrary memory locations!</p> </div> </div> </div> <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script> <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> </body> </html>
+<!DOCTYPE html>
+<html>
+
+  <title>Printf Meeting</title>
+
+  <head>
+    <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+<link rel="shortcut icon" href="/favicon.ico">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col px-5">
+          <ul class="nav justify-content-center m-4">
+  <li class="nav-item">
+    <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/presentation"><h4>Presentations</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/meeting"><h4>Meetings</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/event"><h4>Events</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/about"><h4>About</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/writeups"><h4>Writeups</h4></a>
+  </li>
+</ul>
+<script>
+  var n = Math.floor(Math.random() * 100);
+  if (n > 98) {
+    document.querySelector("#title_for_random").innerHTML = "SIPGwny";
+    console.log("SIPGwny!");
+  }
+</script>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container mb-5">
+  <div class="row">
+    <div class="col panel mt-5">
+      <div class="row">
+        <div class="col align-right">
+          <img src="/images/logo.png" class="rounded my-1" height="115" width="100"/>
+        </div>
+        <div class="col">
+          <h2 class="my-5 header">Printf Meeting</h2>
+        </div>
+        <div class="col">
+        </div>
+      </div>
+
+      
+      <p class="lead"> Author: Joseph Ravichandran </p>
+      
+
+      <a class="mr-3" href='https://docs.google.com/presentation/d/1WO3gKaJcloAdKZSHb9uZVnc08eAD4zA-jIO9U-i_ptM/edit?usp=sharing'>Slides</a>
+      
+
+      <hr/>
+      <br>
+
+      <h4>Goal:</h4>
+      <p>Learn the basics of exploiting format string attacks</p>
+      <br>
+
+      <h4>Topics Covered:</h4>
+      <div>
+        <ul>
+          
+          <li>%x: print hex</li>
+          
+          <li>%d: print decimal</li>
+          
+          <li>%s: print string given pointer to string on stack</li>
+          
+          <li>%n: store number of characters printed thus far into a pointer on the stack</li>
+          
+          <li>reversing</li>
+          
+          <li>pwn</li>
+          
+        </ul>
+      </div>
+      <br>
+
+
+      
+      <h4>How to Run this meeting:</h4>
+      <div>
+        <ul>
+          
+          <li>This concept is best explained with first explaining a little, and then introducing a challenge</li>
+          
+          <li>First talk about how printf works, then give a simple challenge, then introduce more advanced concepts, etc.</li>
+          
+          <li>The challenges should begin with simply using %s to print a string, then using %x a few times to see the stack, then $n%x to print a specific offset, and finally using %n to overwrite information.</li>
+          
+        </ul>
+      </div>
+      <br>
+      
+
+      <h4>Description:</h4>
+      <p>This week’s meeting will be covering format string vulnerabilities in the C printf function. If a program allows you to specify a format string argument to a printf call, you can do all sorts of stuff, from redirecting program flow to overwritting arbitrary memory locations!</p>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>

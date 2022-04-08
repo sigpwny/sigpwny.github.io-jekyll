@@ -1,1 +1,98 @@
-<!DOCTYPE html> <html> <title>UIUCTF 2021</title> <head> <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script> <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css"> <link rel="stylesheet" type="text/css" media="all" href="/css/style.css"/> <link rel="shortcut icon" href="/favicon.ico"> </head> <body> <div class="container"> <div class="row"> <div class="col px-5"> <ul class="nav justify-content-center m-4"> <li class="nav-item"> <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/presentation"><h4>Presentations</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/meeting"><h4>Meetings</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/event"><h4>Events</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/about"><h4>About</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/writeups"><h4>Writeups</h4></a> </li> </ul> <script>var n=Math.floor(100*Math.random());n>98&&(document.querySelector("#title_for_random").innerHTML="SIPGwny",console.log("SIPGwny!"));</script> </div> </div> </div> <div class="container mb-5"> <div class="row"> <div class="col panel mt-5"> <div class="row"> <div class="col align-right"> <img src="/images/logo.png" class="rounded my-1" height="115" width="100"/> </div> <div class="col"> <h2 class="my-5 header">UIUCTF 2021</h2> </div> <div class="col"></div> </div> <ul> <li>Total turnout was ~ 2000 users among ~1000 teams!</li> <li>View writeups at https://sigpwny.com/writeups</li> <br/><i class="fas fa-fw fa-map-marker-alt"></i> <p class="d-inline">ctfd (https://2021.uiuc.tf),</p> <br/><i class="fas fa-fw fa-clock"></i> <p class="d-inline">July 30 - August 1, 2020</p> </ul> <hr/> <br/> <p>UIUCTF 2021 Was also a great success! UIUCTF 2021 was organized by a team of 30 led by Thomas.</p> <p>The theme did not have a name, but the <em>vibe</em> was Futuristic Art Deco / Roaring 20s, you can see the landing page at <a href="https://uiuctf.sigpwny.com/2021">this link</a>!</p> <p>View the frozen CTFd at <a href="https://2021.uiuc.tf">2021.uiuc.tf</a></p> </div> </div> </div> <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script> <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> </body> </html>
+<!DOCTYPE html>
+<html>
+
+  <title>UIUCTF 2021</title>
+
+  <head>
+    <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+<link rel="shortcut icon" href="/favicon.ico">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col px-5">
+          <ul class="nav justify-content-center m-4">
+  <li class="nav-item">
+    <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/presentation"><h4>Presentations</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/meeting"><h4>Meetings</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/event"><h4>Events</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/about"><h4>About</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/writeups"><h4>Writeups</h4></a>
+  </li>
+</ul>
+<script>
+  var n = Math.floor(Math.random() * 100);
+  if (n > 98) {
+    document.querySelector("#title_for_random").innerHTML = "SIPGwny";
+    console.log("SIPGwny!");
+  }
+</script>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container mb-5">
+  <div class="row">
+    <div class="col panel mt-5">
+      <div class="row">
+        <div class="col align-right">
+          <img src="/images/logo.png" class="rounded my-1" height="115" width="100" />
+        </div>
+        <div class="col">
+          <h2 class="my-5 header">UIUCTF 2021</h2>
+        </div>
+        <div class="col"></div>
+      </div>
+      
+      <ul>
+        
+        <li>Total turnout was ~ 2000 users among ~1000 teams!</li>
+        
+        <li>View writeups at https://sigpwny.com/writeups</li>
+         
+        <br /><i class="fas fa-fw fa-map-marker-alt"></i>
+        <p class="d-inline">ctfd (https://2021.uiuc.tf),</p>
+         
+        <br /><i class="fas fa-fw fa-clock"></i>
+        <p class="d-inline">July 30 - August 1, 2020</p>
+        
+      </ul>
+      
+      <hr />
+      <br />
+      <p>UIUCTF 2021 Was also a great success! UIUCTF 2021 was organized by a team of 30 led by Thomas.</p>
+
+<p>The theme did not have a name, but the <em>vibe</em> was Futuristic Art Deco / Roaring 20s, you can see the landing page at <a href="https://uiuctf.sigpwny.com/2021">this link</a>!</p>
+
+<p>View the frozen CTFd at <a href="https://2021.uiuc.tf">2021.uiuc.tf</a></p>
+
+    </div>
+  </div>
+</div>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>

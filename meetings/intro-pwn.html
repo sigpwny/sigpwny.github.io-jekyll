@@ -1,1 +1,130 @@
-<!DOCTYPE html> <html> <title>Intro to Pwn</title> <head> <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script> <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css"> <link rel="stylesheet" type="text/css" media="all" href="/css/style.css"/> <link rel="shortcut icon" href="/favicon.ico"> </head> <body> <div class="container"> <div class="row"> <div class="col px-5"> <ul class="nav justify-content-center m-4"> <li class="nav-item"> <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/presentation"><h4>Presentations</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/meeting"><h4>Meetings</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/event"><h4>Events</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/about"><h4>About</h4></a> </li> <li class="nav-item"> <a class="nav-link" href="/writeups"><h4>Writeups</h4></a> </li> </ul> <script>var n=Math.floor(100*Math.random());n>98&&(document.querySelector("#title_for_random").innerHTML="SIPGwny",console.log("SIPGwny!"));</script> </div> </div> </div> <div class="container mb-5"> <div class="row"> <div class="col panel mt-5"> <div class="row"> <div class="col align-right"> <img src="/images/logo.png" class="rounded my-1" height="115" width="100"/> </div> <div class="col"> <h2 class="my-5 header">Intro to Pwn</h2> </div> <div class="col"> </div> </div> <p class="lead"> Author: Josh </p> <a class="mr-3" href='https://docs.google.com/presentation/d/1wxCVMbv8TRAgRJKmNtZ6WwpgiQDoZ6MyUDfbSxvw6rE/edit#slide=id.g42d8f497e0_16_0)'>Slides</a> <hr/> <br> <h4>Goal:</h4> <p>Learn about the pwn CTF category: finding and exploiting vulnerabilities in programs running on remote servers.</p> <br> <h4>Topics Covered:</h4> <div> <ul> <li>Types of vulnerabilities in binaries (buffer overflow)</li> <li>Memory layout of computers (the stack)</li> <li>Tools: gdb (debugger), pwntools (python library for pwn), Binary Ninja/radare2 (disassembler)</li> </ul> </div> <br> <h4>How to Run this meeting:</h4> <div> <ul> <li>Instruct members to download and get familiar with gdb and Binary Ninja. Pwntools is also recommended.</li> <li>Go through the provided slides, explaining the major concepts as you go.</li> <li>Instruct members to solve the bof CTF challenge.</li> <li>Towards the end of the meeting, step through how to solve the challenge.</li> </ul> </div> <br> <h4>Description:</h4> <p>Binary exploitation can be intimidating, but the meeting will be walking through a pwn challenge from <a href="http://pwnable.kr/play.php">pwnable.kr</a> that will introduce new members to the concepts and tools they need to get started. The challenge involves exploiting a buffer overflow, which is one of the most common kinds of vulnerabilities. Depending on a member’s experience level, some may struggle with the challenge more than others. Walk around the room and try to help those who seem to be struggling.</p> </div> </div> </div> <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script> <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> </body> </html>
+<!DOCTYPE html>
+<html>
+
+  <title>Intro to Pwn</title>
+
+  <head>
+    <script type="module" src="https://cdn.skypack.dev/pin/@hotwired/turbo@v7.1.0-V83RMQBlYCPK9CvTqQoL/mode=imports,min/optimized/@hotwired/turbo.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+<link rel="shortcut icon" href="/favicon.ico">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col px-5">
+          <ul class="nav justify-content-center m-4">
+  <li class="nav-item">
+    <a class="nav-link" href="/"><h4 id="title_for_random">SIGPwny</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/presentation"><h4>Presentations</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/meeting"><h4>Meetings</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/event"><h4>Events</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/about"><h4>About</h4></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/writeups"><h4>Writeups</h4></a>
+  </li>
+</ul>
+<script>
+  var n = Math.floor(Math.random() * 100);
+  if (n > 98) {
+    document.querySelector("#title_for_random").innerHTML = "SIPGwny";
+    console.log("SIPGwny!");
+  }
+</script>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container mb-5">
+  <div class="row">
+    <div class="col panel mt-5">
+      <div class="row">
+        <div class="col align-right">
+          <img src="/images/logo.png" class="rounded my-1" height="115" width="100"/>
+        </div>
+        <div class="col">
+          <h2 class="my-5 header">Intro to Pwn</h2>
+        </div>
+        <div class="col">
+        </div>
+      </div>
+
+      
+      <p class="lead"> Author: Josh </p>
+      
+
+      <a class="mr-3" href='https://docs.google.com/presentation/d/1wxCVMbv8TRAgRJKmNtZ6WwpgiQDoZ6MyUDfbSxvw6rE/edit#slide=id.g42d8f497e0_16_0)'>Slides</a>
+      
+
+      <hr/>
+      <br>
+
+      <h4>Goal:</h4>
+      <p>Learn about the pwn CTF category: finding and exploiting vulnerabilities in programs running on remote servers.</p>
+      <br>
+
+      <h4>Topics Covered:</h4>
+      <div>
+        <ul>
+          
+          <li>Types of vulnerabilities in binaries (buffer overflow)</li>
+          
+          <li>Memory layout of computers (the stack)</li>
+          
+          <li>Tools: gdb (debugger), pwntools (python library for pwn), Binary Ninja/radare2 (disassembler)</li>
+          
+        </ul>
+      </div>
+      <br>
+
+
+      
+      <h4>How to Run this meeting:</h4>
+      <div>
+        <ul>
+          
+          <li>Instruct members to download and get familiar with gdb and Binary Ninja. Pwntools is also recommended.</li>
+          
+          <li>Go through the provided slides, explaining the major concepts as you go.</li>
+          
+          <li>Instruct members to solve the bof CTF challenge.</li>
+          
+          <li>Towards the end of the meeting, step through how to solve the challenge.</li>
+          
+        </ul>
+      </div>
+      <br>
+      
+
+      <h4>Description:</h4>
+      <p>Binary exploitation can be intimidating, but the meeting will be walking through a pwn challenge from <a href="http://pwnable.kr/play.php">pwnable.kr</a> that will introduce new members to the concepts and tools they need to get started. The challenge involves exploiting a buffer overflow, which is one of the most common kinds of vulnerabilities. Depending on a member’s experience level, some may struggle with the challenge more than others. Walk around the room and try to help those who seem to be struggling.</p>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>
