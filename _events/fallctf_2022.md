@@ -50,5 +50,5 @@ Additionally, you can contact us at: [sigpwny@gmail.com](mailto:sigpwny@gmail.co
 
 Your company name here! Check out our [sponsor sheet]({{ site.base_url }}/assets/Official_Fall_CTF_2022_Sponsorship_Sheet.pdf) and email [sigpwny@gmail.com](mailto:sigpwny@gmail.com)
 
-<img src="/images/imc.png" style="width=100%">
+<img src="/images/imc.png" style="width=480px">
 
