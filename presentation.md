@@ -26,6 +26,12 @@ presentations: [
     youtube_link: "https://youtu.be/y8KlhzHcm-w"
   },
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/04-iot.pdf",
+    title: "Spring Week 04: IoT Security with Thomas",
+    date: "2022-02-20",
+    youtube_link: "https://youtu.be/Y6nZIjeb5Yo"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2022/04-python-jails.pdf",
     title: "Spring Week 04: Python Jails with Pete!",
     date: "2022-02-17",
