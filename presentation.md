@@ -4,6 +4,18 @@ title: Presentations
 presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/SP2022/09-security-careers.pdf",
+    title: "Spring Week 12: Crypto Math II (Lattice Attacks on RSA) with Hassam and Nebu",
+    date: "2022-04-17",
+    youtube_link: "https://youtu.be/7a4YDJep1sI"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/11-password-cracking.pdf",
+    title: "Spring Week 11: Password Cracking with Minh and Nebu",
+    date: "2022-04-07",
+    youtube_link: "https://youtu.be/wgTd6I07qkc"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/SP2022/09-security-careers.pdf",
     title: "Spring Week 09: Security Careers",
     date: "2022-03-25",
     youtube_link: "https://youtu.be/V-Gjavv2NlM"
@@ -15,7 +27,7 @@ presentations: [
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2022/05-intro-crypto-math.pdf",
-    title: "Spring Week 05: Crypto Math Intro with Aditya",
+    title: "Spring Week 05: Crypto Math I with Nebu",
     date: "2022-02-27",
     youtube_link: "https://youtu.be/deGvahtfR8M"
   },
@@ -45,7 +57,7 @@ presentations: [
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2022/03-Log4Shell.pdf",
-    title: "Spring Week 03: Log4Shell With Minh",
+    title: "Spring Week 03: Log4Shell with Minh",
     date: "2022-02-10",
     youtube_link: "https://youtu.be/l-lEGD3BVto"
   },
@@ -83,154 +95,154 @@ presentations: [
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/14-mobile.pdf",
-    title: "Week 14: Mobile Security with Pete",
+    title: "Fall Week 14: Mobile Security with Pete",
     date: "2021-12-05",
     youtube_link: "https://youtu.be/FGbriG8RXeU"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/14-javare.pdf",
-    title: "Week 14: Java Reversing with Nate",
+    title: "Fall Week 14: Java Reversing with Nate",
     date: "2021-12-02",
     youtube_link: "https://youtu.be/eqaxuqBhtMI"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/12-recursive.pdf",
-    title: "Week 12: The Recursive Meeting with Thomas",
+    title: "Fall Week 12: The Recursive Meeting with Thomas",
     date: "2021-11-18",
     youtube_link: "https://youtu.be/iSaYLJF8cQU"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/11-wireless-net.pdf",
-    title: "Week 11: Wireless Networking with Thomas",
+    title: "Fall Week 11: Wireless Networking with Thomas",
     date: "2021-11-14",
     youtube_link: "https://youtu.be/TYanTrchRqQ"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/11-networking.pdf",
-    title: "Week 11: Networking with Minh",
+    title: "Fall Week 11: Networking with Minh",
     date: "2021-11-11",
     youtube_link: "https://youtu.be/az12sv5HTbQ"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/10-osint-II.pdf",
-    title: "Week 10: Open Source Intelligence (OSINT) II with Thomas",
+    title: "Fall Week 10: Open Source Intelligence (OSINT) II with Thomas",
     date: "2021-11-07",
     youtube_link: "https://youtu.be/kWES2haaZGw"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/10-osint-I.pdf",
-    title: "Week 10: Open Source Intelligence (OSINT) with Thomas",
+    title: "Fall Week 10: Open Source Intelligence (OSINT) with Thomas",
     date: "2021-11-04",
     youtube_link: "https://youtu.be/eeZhkANTAYU"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/09-summary.pdf",
-    title: "Week 9: Spooky Summary with Thomas",
+    title: "Fall Week 9: Spooky Summary with Thomas",
     date: "2021-10-31",
     youtube_link: "https://youtu.be/tHD2gFliR6E"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/09-forensics.pdf",
-    title: "Week 9: Forensics with Thomas and Nathan",
+    title: "Fall Week 9: Forensics with Thomas and Nathan",
     date: "2021-10-28",
     youtube_link: "https://www.youtube.com/watch?v=GnSjustHiKo"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/08-thebigrick.pdf",
-    title: "Week 8: The Big Rick with Minh",
+    title: "Fall Week 8: The Big Rick with Minh",
     date: "2021-10-24",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/08-lockpicking.pdf",
-    title: "Week 8: Physical Security and Lockpicking with Thomas",
+    title: "Fall Week 8: Physical Security and Lockpicking with Thomas",
     date: "2021-10-21",
     youtube_link: "https://youtu.be/9mjmD63Pz-k",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-II.pdf",
-    title: "Week 7: Binary Exploitation (PWN) II with Kevin",
+    title: "Fall Week 7: Binary Exploitation (PWN) II with Kevin",
     date: "2021-10-17",
     youtube_link: "https://youtu.be/zevWQTy-POE",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/07-pwn-I.pdf",
-    title: "Week 7: Binary Exploitation (PWN) I with Chris and Thomas",
+    title: "Fall Week 7: Binary Exploitation (PWN) I with Chris and Thomas",
     date: "2021-10-14",
     youtube_link: "https://youtu.be/LbYZZI42-ZY",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-II.pdf",
-    title: "Week 6: Reverse Engineering II with Nathan",
+    title: "Fall Week 6: Reverse Engineering II with Nathan",
     date: "2021-10-10",
     youtube_link: "https://youtu.be/Wu1i-AldgCo",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/06-reversing-I.pdf",
-    title: "Week 6: Reverse Engineering I with Nathan",
+    title: "Fall Week 6: Reverse Engineering I with Nathan",
     date: "2021-10-07",
     youtube_link: "https://youtu.be/rvAqrp7p6RA",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/05-ethics-and-law.pdf",
-    title: "Week 5: Ethics and Law with Thomas",
+    title: "Fall Week 5: Ethics and Law with Thomas",
     date: "2021-10-03",
     youtube_link: "https://youtu.be/Y-r7ouHEZTs",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/05-opsec.pdf",
-    title: "Week 5: OpSec with Thomas",
+    title: "Fall Week 5: OpSec with Thomas",
     date: "2021-09-30",
     youtube_link: "https://youtu.be/AkKp6X2t5CkU",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto-II.pdf",
-    title: "Week 4: Crypto II with Husnain and Anakin",
+    title: "Fall Week 4: Crypto II with Husnain and Anakin",
     date: "2021-09-26",
     youtube_link: "https://youtu.be/J6Q68hRBS8U",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/04-crypto.pdf",
-    title: "Week 4: Crypto I with Husnain and Anakin",
+    title: "Fall Week 4: Crypto I with Husnain and Anakin",
     date: "2021-09-23",
     youtube_link: "https://youtu.be/QlV_C6xA3GA",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/03-csaw-recap.pdf",
-    title: "Week 3: CSAW 2021 Recap with A Bunch of People! (Seminar)",
+    title: "Fall Week 3: CSAW 2021 Recap with A Bunch of People! (Seminar)",
     date: "2021-09-19",
     youtube_link: "https://youtu.be/niRzFyYW8-4",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/03-web-II.pdf",
-    title: "Week 3: Web Hacking II with Nathan and Kevin",
+    title: "Fall Week 3: Web Hacking II with Nathan and Kevin",
     date: "2021-09-16",
     youtube_link: "https://youtu.be/5y2oWqx-9qQ",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/02-web.pdf",
-    title: "Week 2: Web Hacking I with Nathan and Kevin",
+    title: "Fall Week 2: Web Hacking I with Nathan and Kevin",
     date: "2021-09-09",
     youtube_link: "https://youtu.be/5Qx012vujX0",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/01-terminal.pdf",
-    title: "Week 1: Important Terminal Commands with Anusha (Seminar)",
+    title: "Fall Week 1: Important Terminal Commands with Anusha (Seminar)",
     date: "2021-09-05",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/01-tutorial.pdf",
-    title: "Week 1: SIGPwny Fall 2021 Tutorial Meeting with Thomas",
+    title: "Fall Week 1: SIGPwny Fall 2021 Tutorial Meeting with Thomas",
     date: "2021-09-02",
     youtube_link: "https://youtu.be/uwYNdxmAn8w",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/00-settingup.pdf",
-    title: "Week 0: Setting Up for SIGPwny with Thomas (Seminar)",
+    title: "Fall Week 0: Setting Up for SIGPwny with Thomas (Seminar)",
     date: "2021-08-29",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2021/00-infosession.pdf",
-    title: "Week 0: SIGPwny Fall 2021 Info Session with Thomas",
+    title: "Fall Week 0: SIGPwny Fall 2021 Info Session with Thomas",
     date: "2021-08-26",
   },
   {
