@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 presentations: [
   {
-    link: "https://sigpwny.github.io/presentation-content/SP2022/09-security-careers.pdf",
+    link: "https://sigpwny.github.io/presentation-content/SP2022/12-lattice-attacks.pdf",
     title: "Spring Week 12: Crypto Math II (Lattice Attacks on RSA) with Hassam and Nebu",
     date: "2022-04-17",
     youtube_link: "https://youtu.be/7a4YDJep1sI"
