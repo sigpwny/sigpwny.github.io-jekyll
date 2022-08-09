@@ -1,14 +1,16 @@
 ---
 layout: page
 title: UIUCTF 2022
-location: online (ctfd), 
-time: Summer, 2022
+location: ctfd (https://2022.uiuc.tf/), 
+time: July 30 - August 1, 2022
 notes: [
-  "Information to come",
-  "View old writeups at https://sigpwny.com/writeups"
+  "Total turnout was ~1400 users among ~800 teams!",
+  "View writeups at https://sigpwny.com/writeups (2022 writeups TBA)"
 ]
 ---
 
-We will be doing another UIUCTF this upcoming summer!
+UIUCTF 2022 was again an amazing success! UIUCTF 2022 was organized by a team of 21 led by Nathan.
 
-Stay tuned for more info soon
+The theme this year was a digital art exhibition. You can see the landing page at [this link](https://uiuc.tf/2022)!
+
+View the frozen CTFd at [2022.uiuc.tf](https://2022.uiuc.tf/)
