@@ -13,4 +13,4 @@ UIUCTF 2020 was a great success! It was the first UIUCTF of the new SIGPwny club
 
 The theme was Animal Crossing. You can see the old landing page at [this link](https://uiuctf.sigpwny.com/2020)!
 
-View the frozen CTFd at [2020.uiuc.tf](https://2020.uiuc.tf) (temporarily down)
+View the frozen CTFd at [2020.uiuc.tf](https://2020.uiuc.tf)
