@@ -3,6 +3,23 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_01_Setup.pdf",
+    title: "Fall Week 01: Setup Meeting with Nathan and Anusha",
+    date: "2022-09-04",
+    youtube_link: "https://youtu.be/1iqKFMRkN88"
+  },
+  {
+    link: "#",
+    title: "Fall Week 00: Chalk Social (No Slides)",
+    date: "2022-08-28"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_00_Introduction.pdf",
+    title: "Fall Week 00: 2022 Introduction Meeting with Nathan & Friends",
+    date: "2022-08-25",
+    youtube_link: "https://youtu.be/sTjlqI7qkPA"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2022/12-lattice-attacks.pdf",
     title: "Spring Week 12: Crypto Math II (Lattice Attacks on RSA) with Hassam and Nebu",
     date: "2022-04-17",
