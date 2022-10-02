@@ -21,7 +21,7 @@ presentations: [
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_04_Reverse_Engineering_I.pdf",
-    title: "Fall Week 4: Reverse Engineering I Meeting with Richard and Pete"",
+    title: "Fall Week 4: Reverse Engineering I Meeting with Richard and Pete",
     date: "2022-09-22",
     youtube_link: "https://youtu.be/vKuui7iCOB0"
   },
