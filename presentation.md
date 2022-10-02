@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 presentations: [
   {
-    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_05_ASM.pdf",
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_05_x86-64_Assembly.pdf",
     title: "Fall Week 05: Assembly Meeting with Sam",
     date: "2022-10-02",
     youtube_link: "#"
