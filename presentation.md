@@ -3,6 +3,53 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_05_ASM.pdf",
+    title: "Fall Week 05: Assembly Meeting with Sam",
+    date: "2022-10-02",
+    youtube_link: "#"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_05_OSINT_I.pdf",
+    title: "Fall Week 05: OSINT I with Thomas, Julius, and Danny",
+    date: "2022-09-29",
+    youtube_link: "https://youtu.be/zPiLs8GU-v4"
+  },
+  {
+    link: "https://fallctf.sigpwny.com",
+    title: "Fall CTF 2022 (No sunday Meeting)",
+    date: "2022-09-24"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_04_Reverse_Engineering_I.pdf",
+    title: "Fall Week 4: Reverse Engineering I Meeting with Richard and Pete"",
+    date: "2022-09-22",
+    youtube_link: "https://youtu.be/vKuui7iCOB0"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_03_Rev_Pwn_Setup.pdf",
+    title: "Fall Week 03: Reverse Engineering Setup Meeting with Minh and Pete",
+    date: "2022-09-18",
+    youtube_link: ""
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_03_Web_Hacking_II.pdf",
+    title: "Fall Week 03: Web Hacking II with Pete and Kevin",
+    date: "2022-09-15",
+    youtube_link: "https://www.youtube.com/watch?v=5y2oWqx-9qQ"
+  },
+  {
+    link: "#",
+    title: "CSAW 2022: How to CTF and Walkthroughs with Thomas (No Slides)",
+    date: "2022-09-09",
+    youtube_link: ""
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_02_Web_Hacking_I.pdf",
+    title: "Fall Week 02: Web Hacking I with Emma and Michael",
+    date: "2022-09-08",
+    youtube_link: "https://youtu.be/FI-GDQIxbcM"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_01_Setup.pdf",
     title: "Fall Week 01: Setup Meeting with Nathan and Anusha",
     date: "2022-09-04",
