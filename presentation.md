@@ -36,7 +36,7 @@ presentations: [
     youtube_link: "https://www.youtube.com/watch?v=5y2oWqx-9qQ"
   },
   {
-    link: "#",
+    link: "https://sigpwny.github.io/presentation/#",
     title: "CSAW 2022: How to CTF and Walkthroughs with Thomas (No Slides)",
     date: "2022-09-09"
   },
@@ -53,7 +53,7 @@ presentations: [
     youtube_link: "https://youtu.be/1iqKFMRkN88"
   },
   {
-    link: "#",
+    link: "https://sigpwny.github.io/presentation/#",
     title: "Fall Week 00: Chalk Social (No Slides)",
     date: "2022-08-28"
   },
