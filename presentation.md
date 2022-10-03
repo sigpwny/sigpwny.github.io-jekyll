@@ -5,7 +5,8 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_05_x86-64_Assembly.pdf",
     title: "Fall Week 05: Assembly Meeting with Sam",
-    date: "2022-10-02"
+    date: "2022-10-02",
+    youtube_link: "https://youtu.be/qFZqj1zEXT0"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_05_OSINT_I.pdf",
@@ -27,7 +28,8 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_03_Rev_Pwn_Setup.pdf",
     title: "Fall Week 03: Reverse Engineering Setup Meeting with Minh and Pete",
-    date: "2022-09-18"
+    date: "2022-09-18",
+    youtube_link: "https://youtu.be/n8W7ROpvx58"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_03_Web_Hacking_II.pdf",
