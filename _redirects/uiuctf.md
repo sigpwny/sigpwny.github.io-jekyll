@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://uiuctf.sigpwny.com/2021
+redirect_url: https://sigpwny.com/assets/SIGPwny_UIUCTF_Sponsorship_2023.pdf
 ---
