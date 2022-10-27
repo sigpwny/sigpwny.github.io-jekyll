@@ -4,11 +4,14 @@ title: Sponsorship Information
 ---
 # SIGPwny Sponsorship Information
 
-## `whois` SIGPwny
+## whois SIGPwny
 SIGPwny, the computer security club at UIUC, is the largest ACM special interest group on campus with over 400 registered members. We teach computer security and emphasize the adversarial mindset, training our members to think outside the box and tackle challenges in designing secure software, hardware, and anything in between.
 
 ## What We Offer
 We have a number of awesome events that will allow you to take advantage of our reach!
+
+### Year Round Offerings
+Our weekly meetings cover core security content and with 100+ members attending each meeting, we have a number of ways for you to meet and talk with students interested in your products and missions. We offer the chance for everything in between a quick meetup after our Thursday lecture series all the way to a custom workshop or event complete with catered food and CTF challenges in line with your work. More information about these types of events can be found on our [Year Round Sponsorship Sheet](https://sigpwny.com/year).
 
 ### Fall CTF
 At the beginning of every school year, we run [Fall CTF](https://fallctf.sigpwny.com/) which is a one-day hacking competition that runs in person at the University of Illinois Urbana-Champaign. We have hosted Fall CTF since 2019, and our 2022 event was our most successful yet —over 300 students from UIUC competed, most being computer science and engineering majors! We want to make Fall CTF 2023 bigger and better and we can't do this without the support from companies like yours. By sponsoring this event, you will get access to competitor resumes and have the opportunity to present and have your very own booth in the same room as the competition. More information about all the ways your company can get involved can be found on our [Fall CTF Sponsorship Sheet](https://sigpwny.com/fall).
