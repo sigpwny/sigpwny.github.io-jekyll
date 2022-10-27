@@ -4,7 +4,7 @@ title: Sponsorship Information
 ---
 # SIGPwny Sponsorship Information
 
-## whois SIGPwny
+## `whois` SIGPwny
 SIGPwny, the computer security club at UIUC, is the largest ACM special interest group on campus with over 400 registered members. We teach computer security and emphasize the adversarial mindset, training our members to think outside the box and tackle challenges in designing secure software, hardware, and anything in between.
 
 ## What We Offer
