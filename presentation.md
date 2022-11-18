@@ -3,6 +3,60 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_12_Forensics.pdf",
+    title: "Fall Week 12: Forensics with Minh",
+    date: "2022-11-17",
+    youtube_link: ""
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_11_Python_Jails.pdf",
+    title: "Fall Week 11: Python Jails with Pete",
+    date: "2022-11-10",
+    youtube_link: "https://youtu.be/bLxpM68Wx-0"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_10_Opsec.pdf",
+    title: "Fall Week 10: Operational Security with Thomas and Nora",
+    date: "2022-11-03",
+    youtube_link: "https://www.youtube.com/watch?v=4aidc5C0VO4"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_09_Lockpicking.pdf",
+    title: "Fall Week 09: Lockpicking with Thomas and Sam",
+    date: "2022-10-27",
+    youtube_link: "https://youtu.be/bLxpM68Wx-0"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_08_Reverse_Engineering_II.pdf",
+    title: "Fall Week 08: Reverse Engineering II with Richard",
+    date: "2022-10-20",
+    youtube_link: "https://www.youtube.com/watch?v=KuQaiJgjqCk"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_07_Crypto_II.pdf",
+    title: "Fall Week 07: Crypto II with Anakin",
+    date: "2022-10-15",
+    youtube_link: "https://www.youtube.com/watch?v=bc8L3K39Qik"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_07_Crypto_I.pdf",
+    title: "Fall Week 07: Crypto I with Anakin",
+    date: "2022-10-13",
+    youtube_link: "https://www.youtube.com/watch?v=suw8O5_SWfk"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_06_Ethics_and_Law.pdf",
+    title: "Fall Week 06: Ethics and Law with Thomas",
+    date: "2022-10-08",
+    youtube_link: "https://www.youtube.com/watch?v=6WIJnT4t3D0"
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_06_PWN_I.pdf",
+    title: "Fall Week 06: PWN with Kevin",
+    date: "2022-10-06",
+    youtube_link: "https://www.youtube.com/watch?v=mt4zL7Pzvbs"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_05_x86-64_Assembly.pdf",
     title: "Fall Week 05: Assembly Meeting with Sam",
     date: "2022-10-02",
