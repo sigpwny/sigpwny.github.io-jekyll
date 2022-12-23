@@ -3,35 +3,59 @@ layout: default
 title: About
 members: [
   {
-    name    : "Thomas",
-    picture : "https://quig.dev/cdn/photos/glitch-crop.gif",
-    link    : "https://quig.dev/",
+    name    : "Anusha",
+    picture : "https://pbs.twimg.com/profile_images/1423444246971908096/HzpAoez7_400x400.jpg",
+    link    : "https://www.linkedin.com/in/anusha-ghosh/",
     role    : "President (Current)",
     order   : 0,
     current    : True,
   },
   {
-    name    : "Nicholas",
-    picture : "https://nicholas.sh/profile.jpg",
-    link    : "https://nicholas.sh",
-    role    : "Officer",
+    name    : "Nathan",
+    picture : "https://media.licdn.com/dms/image/C5603AQFRw-xI5sLWYw/profile-displayphoto-shrink_800_800/0/1662006829381?e=1677110400&v=beta&t=nmV0nz_cf0lW3Yc2c6l4AP4kBhQ0e4UCN3sKKaMfJQU",
+    link    : "https://github.com/nathanfarlow",
+    role    : "Former President (FA 2022)",
     order   : 1,
-    current    : True,
+    current    : False,
+  },
+  {
+    name    : "Thomas",
+    picture : "https://quig.dev/cdn/photos/glitch-crop.gif",
+    link    : "https://quig.dev/",
+    role    : "Former President (2020-2022)",
+    order   : 2,
+    current    : False,
   },
   {
     name    : "ravi",
     picture : "https://avatars.githubusercontent.com/u/36464332",
     link    : "https://github.com/jprx",
     role    : "Former President (2019-2020)",
-    order   : 2,
+    order   : 3,
     current    : False,
+  },
+  {
+    name    : "Ian",
+    picture : "https://klatz.co/images/arrow.png",
+    link    : "https://klatz.co",
+    role    : "Former President (2018-2019)",
+    order   : 4,
+    current    : False,
+  },
+  {
+    name    : "Nicholas",
+    picture : "https://nicholas.sh/profile.jpg",
+    link    : "https://nicholas.sh",
+    role    : "Officer",
+    order   : 5,
+    current    : True,
   },
   {
     name    : "kuilin",
     picture : "https://kuilin.net/profile_upscaled.png",
     link    : "https://kuilin.net",
     role    : "Infra Admin",
-    order   : 3,
+    order   : 6,
     current    : False,
   },
   {
@@ -39,18 +63,9 @@ members: [
     picture : "https://avatars.githubusercontent.com/u/12467423",
     link    : "https://github.com/epistemologist",
     role    : "Officer",
-    order   : 4,
+    order   : 7,
     current    : True,
-  },
-  {
-    name    : "Ian",
-    picture : "https://klatz.co/images/arrow.png",
-    link    : "https://klatz.co",
-    role    : "Former President (2018-2019)",
-    order   : 5,
-    current    : False,
   }
-  
 ]
 ---
 

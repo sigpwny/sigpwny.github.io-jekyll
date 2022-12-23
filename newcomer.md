@@ -3,7 +3,7 @@ layout: page
 title: Info for Newcomers
 ---
 
-Welcome to SIGPwny! We are glad that you found us, and we hope you are ready to start hacking! Outlined here are a bunch of resources to get started.
+Welcome to SIGPwny! We are so glad that you found us, and we hope you are ready to start hacking! Outlined here some resources to get you started.
 
 
 1. Join our discord here, at [sigpwny.com/discord]({{ site.discord_link }}) to talk with members of the club. Once you are there, read `#rules` and `#announcements` for any recent info.

@@ -3,10 +3,16 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/FA2022/Week_14_PWN_II.pdf",
+    title: "Fall Week 14: PWN II with Kevin",
+    date: "2022-12-01",
+    youtube_link: "https://www.youtube.com/watch?v=MA_ZQmSS9PQ"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_12_Forensics.pdf",
     title: "Fall Week 12: Forensics with Minh",
     date: "2022-11-17",
-    youtube_link: ""
+    youtube_link: "https://www.youtube.com/watch?v=zVOv83Y72f0"
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_11_Python_Jails.pdf",
