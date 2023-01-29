@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2023/Week%2001_%20Setup%20Meeting.pdf",
+    title: "Spring Week 01: Setup v2 with Pete, Minh, Richard",
+    date: "2022-12-01"
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/FA2022/Week_14_PWN_II.pdf",
     title: "Fall Week 14: PWN II with Kevin",
     date: "2022-12-01",
