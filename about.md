@@ -5,7 +5,7 @@ members: [
   {
     name    : "Anusha",
     picture : "https://pbs.twimg.com/profile_images/1423444246971908096/HzpAoez7_400x400.jpg",
-    link    : "https://www.linkedin.com/in/anusha-ghosh/",
+    link    : "https://twitter.com/0xh3110ca",
     role    : "President (Current)",
     order   : 0,
     current    : True,
