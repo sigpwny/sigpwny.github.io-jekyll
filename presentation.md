@@ -5,7 +5,7 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation-content/SP2023/Week%2001_%20Setup%20Meeting.pdf",
     title: "Spring Week 01: Setup v2 with Pete, Minh, Richard",
-    date: "2022-12-01",
+    date: "2023-01-29",
     youtube_link: "https://youtu.be/XA_8s8A5svI"
   },
   {
