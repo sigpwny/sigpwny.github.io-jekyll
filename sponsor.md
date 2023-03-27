@@ -20,4 +20,4 @@ At the beginning of every school year, we run [Fall CTF](https://fallctf.sigpwny
 Every summer we also run [UIUCTF](https://uiuc.tf/) which is one of the largest academic security CTF competitions, with 1,000+ teams and 2,000+ players from the global cybersecurity community competing last year. SIGPwny, the computer security club at UIUC, is seeking sponsors to help run our next event. Your company can get involved in a number of ways, from resumes and challenges to having virtual representatives in the competition Discord and presenting at the closing ceremony. More information about UIUCTF and how to get involved can be found on our [UIUCTF Sponsorship Sheet](https://sigpwny.com/uiuctf).
 
 ## Contact
-Please reach out to us at [sigpwny@gmail.com](mailto:sigpwny@gmail.com) if your company is interested in working with us! We're more than happy to work with you to tailor exactly you are looking for in an event from us.
+Please reach out to [sponsors@sigpwny.com](mailto:sponsors@sigpwny.com) if your company is interested in working with us! We're more than happy to work with you to tailor exactly what you are looking for in a relationship with us.
